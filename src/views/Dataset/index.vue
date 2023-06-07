@@ -1,5 +1,8 @@
+<script setup lang="ts">
+
+</script>
 <template>
 	<div>
-		hello
+        <NButton type="primary"></NButton>
 	</div>
 </template>
